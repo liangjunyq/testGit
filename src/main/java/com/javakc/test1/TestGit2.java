@@ -5,6 +5,7 @@ public class TestGit2 {
         System.out.println("你好");
         int i=10;
         i++;
+        i++;
         System.out.println(i);
     }
 }
